@@ -14,8 +14,9 @@
 
 ⚡ Electronics student passionate about embedded systems, IoT, and low-level programming.\
 🔧 I love building things from scratch and understanding how they actually work under the hood.\
-🤖 Working towards TinyML, running AI on microcontrollers is where I want to be.\
+🤖 Working towards TinyML — running AI on microcontrollers is where I want to be.\
 🎮 Also curious about game development and reverse engineering.\
+🏆 1st place winner in a robotics competition.
 
 ###
 
@@ -59,5 +60,8 @@
   </a>
   <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/32576961/99s7ck4gc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo" />
   </a>
 </div>
