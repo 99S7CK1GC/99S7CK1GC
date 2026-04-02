@@ -1,3 +1,9 @@
+# Hey, I'm 99s7ck1gc! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=100&lines=cout+%3C%3C+%2299s7ck1gc%22+%3C%3C+endl%3B;%2F%2F+Embedded+Systems+%7C+IoT+%7C+TinyML;%2F%2F+C+%2F+C%2B%2B+%7C+ESP32+%7C+STM32" alt="Typing SVG" />
 </div>
 
 ###
@@ -19,7 +25,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=99s7ck1gc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" width=500 alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=99s7ck1gc&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="165" alt="stats"/>
+  <img src="https://streak-stats.demolab.com?user=99s7ck1gc&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
 </div>
 
 ###
