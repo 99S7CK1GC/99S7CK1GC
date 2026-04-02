@@ -25,8 +25,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=99s7ck1gc&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="165" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=99s7ck1gc&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=99s7ck1gc&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=99s7ck1gc&theme=github_dark" height="165" alt="languages"/>
 </div>
 
 ###
@@ -61,7 +61,7 @@
   <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
   </a>
-  <a href="https://stackoverflow.com/users/32576961/99s7ck4gc" target="_blank" rel="noopener noreferrer">
+  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo" />
   </a>
 </div>
