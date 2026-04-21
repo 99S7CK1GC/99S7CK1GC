@@ -14,7 +14,6 @@
 
 - Electronics student passionate about embedded systems, IoT, and low-level programming.\
 - I love building things from scratch and understanding how they actually work under the hood.\
-- Working towards TinyML, running AI on microcontrollers is where I want to be.\
 - Also curious about garphics programming and reverse engineering.\
 
 ###
